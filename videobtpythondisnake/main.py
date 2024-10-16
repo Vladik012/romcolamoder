@@ -20,4 +20,4 @@ for file in os.listdir("./cogs"):
         bot.load_extension(f"cogs.{file[:-3]}")
 
 
-bot.run("TOKEN_you_bot")
+bot.run("TOKEN_of_you__discord_bot")
